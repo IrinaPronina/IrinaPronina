@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrinaPronina
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning JS, react
-- 📫 How to reach me https://www.
+- 📫 How to reach me https://www.pronina.website/
 
 <!---
 IrinaPronina/IrinaPronina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
